@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+  postgres:
+    image: postgres
+    restart: always
+    volumes:
+      - ./data:/var/lib/postgresql/data
+    ports:
+      - '5432:5432'
+    environment:
+      POSTGRES_DB: dept-prisma-tgql
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: my-secret-pw
