@@ -15,7 +15,7 @@
   },
   "author": "Dept",
   "dependencies": {
-    "@prisma/client": "^2.26.0",
+    "@prisma/client": "^2.30.1",
     "apollo-server": "^3.3.0",
     "class-validator": "^0.13.1",
     "dotenv": "^10.0.0",
