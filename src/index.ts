@@ -29,7 +29,6 @@ async function run() {
 
   const server = new ApolloServer({
     schema,
-    playground: true,
     context: () => ({ prisma }),
   });
 
