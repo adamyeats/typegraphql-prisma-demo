@@ -15,7 +15,7 @@
   },
   "author": "Dept",
   "dependencies": {
-    "@prisma/client": "^3.4.1",
+    "@prisma/client": "^3.4.2",
     "apollo-server": "^3.5.0",
     "class-validator": "^0.13.1",
     "dotenv": "^10.0.0",
@@ -29,7 +29,7 @@
     "@types/graphql-fields": "^1.3.4",
     "@types/jest": "^27.0.2",
     "@types/node": "^16.11.7",
-    "concurrently": "^6.3.0",
+    "concurrently": "^6.4.0",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.2.0",
     "eslint-config-airbnb-base": "^14.2.1",
@@ -42,7 +42,7 @@
     "prettier": "^2.4.1",
     "prisma": "^3.4.1",
     "ts-jest": "^27.0.7",
-    "typegraphql-prisma": "^0.16.5",
+    "typegraphql-prisma": "^0.16.6",
     "typescript": "^4.4.4"
   },
   "config": {
