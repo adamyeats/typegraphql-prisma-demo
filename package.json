@@ -39,7 +39,7 @@
     "jest": "^27.3.1",
     "lint-staged": "^12.1.2",
     "nodemon": "^2.0.15",
-    "prettier": "^2.4.1",
+    "prettier": "^2.5.1",
     "prisma": "^3.4.2",
     "ts-jest": "^27.0.7",
     "typegraphql-prisma": "^0.18.2",
