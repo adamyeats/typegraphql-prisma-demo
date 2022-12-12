@@ -17,7 +17,7 @@
   "dependencies": {
     "@prisma/client": "^4.7.1",
     "apollo-server": "^3.10.2",
-    "class-validator": "^0.13.2",
+    "class-validator": "^0.14.0",
     "dotenv": "^16.0.1",
     "graphql": "^16.6.0",
     "graphql-fields": "^2.0.3",
