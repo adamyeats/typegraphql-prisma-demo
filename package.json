@@ -31,7 +31,7 @@
     "@types/node": "^18.14.0",
     "concurrently": "^7.6.0",
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^8.23.1",
+    "eslint": "^8.35.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-security": "^1.7.1",
