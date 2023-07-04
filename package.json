@@ -42,7 +42,7 @@
     "prettier": "^2.8.8",
     "prisma": "^4.16.2",
     "ts-jest": "^27.1.4",
-    "typegraphql-prisma": "^0.25.1",
+    "typegraphql-prisma": "^0.26.0",
     "typescript": "^4.9.5"
   },
   "config": {
